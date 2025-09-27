@@ -1,0 +1,3 @@
+From Open AI:
+Get API Key, copy and paste it immediately when it pops up since it will not show it to you again.
+Also get the organization ID.
