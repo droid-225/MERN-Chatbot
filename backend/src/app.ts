@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 
 // remove in production
-app.use(morgan("dev"));
+app.use(morgan("dev")); // prints data about requests and responses
 
 app.use("/api/v1", appRouter);
 
